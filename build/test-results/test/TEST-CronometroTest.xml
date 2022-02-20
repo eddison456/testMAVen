@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CronometroTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-20T00:06:58" hostname="DESKTOP-GV0TBJP" time="304.294">
+  <properties/>
+  <testcase name="CronometroTEst" classname="CronometroTest" time="304.294"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
